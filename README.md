@@ -6,10 +6,10 @@ Benefits are being made contingent upon other benefits. If a plan is contingent 
  
 #### New Hire Enrollment
 
-[ ] Contingent Plan is offered for a type of plan
-[ ] Contingent Plan is not offered for a type of plan
-[ ] Contingent Plan is offered for a specific plan
-[ ] Contingent Plan is not offered for a specific plan
+[ ] Contingent Plan is offered for a type of plan<br>
+[ ] Contingent Plan is not offered for a type of plan<br>
+[ ] Contingent Plan is offered for a specific plan<br>
+[ ] Contingent Plan is not offered for a specific plan<br>
 
 -	Class Type
 
